@@ -1,0 +1,8 @@
+aubio
+lxml
+nltk
+numpy
+requests
+torch
+transformers
+tqdm
